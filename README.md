@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**, **React Js**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**,**C Language**
 
 - 📫 How to reach me **aayush70dhiman@gmail.com**
 
