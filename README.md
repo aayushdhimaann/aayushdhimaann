@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1LjwzVGIJLQBTACcdUtRqXaA7Cr4aSzI-?usp=sharing](https://drive.google.com/drive/folders/1LjwzVGIJLQBTACcdUtRqXaA7Cr4aSzI-?usp=sharing)
 
-- ⚡ Fun fact **I think I'm intelligent**
+- ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
