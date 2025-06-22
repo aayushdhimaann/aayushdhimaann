@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_aayush_dhiman_" target="blank"><img src="https://img.shields.io/twitter/follow/_aayush_dhiman_?logo=twitter&style=for-the-badge" alt="_aayush_dhiman_" /></a> </p>
 
-- 🌱 I’m a MERN Stack Dev
+- 🌱 I’m a Dev
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **aayush70dhiman@gmail.com**
 
