@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1LjwzVGIJLQBTACcdUtRqXaA7Cr4aSzI-?usp=sharing](https://drive.google.com/drive/folders/1LjwzVGIJLQBTACcdUtRqXaA7Cr4aSzI-?usp=sharing)
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_aayush_dhiman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aayush_dhiman_" height="30" width="40" /></a>
