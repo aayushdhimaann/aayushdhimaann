@@ -13,7 +13,7 @@ Building scalable backend systems, real-time applications, and automation-driven
 
 # 🚀 About Me
 
-I'm **Aayush Dhiman**, a **Backend-focused Software Engineer based in Noida, India**, with **2+ years of experience building scalable SaaS systems and full-stack applications**.
+I'm **Aayush Dhiman**, a **Backend-focused Software Engineer based in Noida, India**, with **3+ years of experience building scalable SaaS systems and full-stack applications**.
 
 My work focuses on **backend architecture, API design, real-time systems, and AI-driven automation**. I enjoy designing systems that are **scalable, efficient, and production-ready**.
 
